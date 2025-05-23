@@ -12,4 +12,4 @@
 - Библиотеки: `tkinter`
 
 ## Установка
-Установите SageMath согласно [официальной инструкции]([https://www.sagemath.org/download.html](https://doc.sagemath.org/html/en/installation/index.html)).
+Установите SageMath согласно [официальной инструкции](https://doc.sagemath.org/html/en/installation/index.html).
